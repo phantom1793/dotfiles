@@ -1,0 +1,6 @@
+neobundle.vim
+neocomplcache
+nerdtree
+vim-autoclose
+vim-node
+vim-nodejs-complete
